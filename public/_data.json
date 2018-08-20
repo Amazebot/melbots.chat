@@ -1,0 +1,15 @@
+{
+  "navbar": {
+    "/": "Home",
+    "//www.meetup.com/Chatbots-Messaging-and-AI-Melbourne": "Join Meetup",
+    "/slides": "Slides"
+  },
+  "pages": {
+    "404": "🤷‍",
+    "about": "about the group",
+    "conduct": "code of conduct",
+    "contact": "contact organisers",
+    "events": "meetup events",
+    "slides": "slides and links"
+  }
+}

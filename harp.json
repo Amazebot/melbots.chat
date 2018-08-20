@@ -1,0 +1,8 @@
+{
+  "globals": {
+    "title": "Melbots.chat",
+    "author": "Tim Kinnane <tim.kinnane@amazebot.chat>",
+    "description": "Melbourne Chatbots, Messaging & AI Community.",
+    "uri": "//melbots.chat"
+  }
+}

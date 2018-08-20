@@ -1,0 +1,13 @@
+jQuery(document).ready(function ($) {
+  $('.navbar .nav-item')
+    .has('.dropdown-menu')
+    .addClass('dropdown')
+  $('.navbar .nav-item.dropdown > .nav-link')
+    .addClass('dropdown-toggle')
+    .attr('href', '#')
+    .attr('role', 'button')
+    .attr('aria-haspopup', 'true')
+    .attr('aria-expanded', 'false')
+    .attr('data-toggle', 'dropdown')
+  if (document.location.hash) $(document).scrollTop($(document.location.hash).offset().top)
+})
